@@ -1,0 +1,6 @@
+{
+  "name": "DJ Wulf — Electronic Beats & Tour Hub",
+  "description": "Offizielle Künstler-Webseite von DJ Wulf mit aktuellen Mixes, Tourdaten, interaktiver Mediathek, Community-Forum mit Volltextsuche, Playlists, Party-Effekten sowie User- und Adminpanel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
